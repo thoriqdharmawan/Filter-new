@@ -1,0 +1,17 @@
+{
+  "name": "material-ui",
+  "version": "3.0.0",
+  "description": "hello world starter",
+  "keywords": [
+    "react",
+    "material"
+  ],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.9.1",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
